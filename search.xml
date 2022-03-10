@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/4a17b156/"/>
+      <url>/posts/4a17b156/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>. Test</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><p>测试图片</p><img src="https://cdn.leiyiyun.com/img/image-20220310205826474.png" alt="image-20220310205826474" style="zoom: 33%;" />]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hexo博客搭建</title>
+      <link href="/posts/b8f4bd70/"/>
+      <url>/posts/b8f4bd70/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Hexo-博客搭建"><a href="#Hexo-博客搭建" class="headerlink" title="Hexo 博客搭建"></a>Hexo 博客搭建</h1><h2 id="安装hexo"><a href="#安装hexo" class="headerlink" title="安装hexo"></a>安装hexo</h2><h2 id="部署到github-pages"><a href="#部署到github-pages" class="headerlink" title="部署到github pages"></a>部署到github pages</h2><h2 id="绑定自己的域名"><a href="#绑定自己的域名" class="headerlink" title="绑定自己的域名"></a>绑定自己的域名</h2><ul><li>加入百度统计</li></ul><h2 id="配置图床"><a href="#配置图床" class="headerlink" title="配置图床"></a>配置图床</h2><p>Obsidian + Typora + PicGo + 七牛云<br><a href="https://forum-zh.obsidian.md/t/topic/388">在Obsidian中使用图床实现“一次上传、多次搬运”省心又省力</a></p><h2 id="启用RSS订阅"><a href="#启用RSS订阅" class="headerlink" title="启用RSS订阅"></a>启用RSS订阅</h2><p>feeder.io<br><a href="https://www.flikfill.com/848.html">带你走进RSS订阅，了解RSS为什么没落</a><br><a href="https://blog.51cto.com/prepared/3130093">程序员如何使用RSS订阅网站更新</a></p><h2 id="主题配置"><a href="#主题配置" class="headerlink" title="主题配置"></a>主题配置</h2><ul><li><a href="https://butterfly.js.org/posts/21cfbf15/">butterfly</a>: 一款很好看的hexo主题<h2 id="插件"><a href="#插件" class="headerlink" title="插件"></a>插件</h2></li><li><a href="https://github.com/rozbo/hexo-abbrlink">hexo-abbrlink</a>： 为每个页面生成唯一的永久链接</li><li><a href="https://github.com/willin/hexo-wordcount">hexo-wordcount</a>:   字数统计</li></ul>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
