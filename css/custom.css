@@ -5,15 +5,26 @@
     font-weight:lighter;
 }
 @font-face {
-    font-family:ZhuZiAYuanJWD;
-    src:url(https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/ZhuZiAYuanJWD.ttf);
+    font-family:ZhuZiAYuanJWDBlod;
+   
+    src:url(https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/ZhuZiAWan.woff2);
     font-display:swap;
     font-weight:lighter;
 }
+@font-face {
+    font-family:ZhuZiAYuanJWD;
+    src:url(https://cdn.jsdelivr.net/npm/akilar-candyassets/fonts/ZhuZiAYuanJWD.ttf); 
+    font-display:swap;
+    font-weight:lighter;
+}
+
 h1#site-title {
     font-family:Candyhome;
     font-size:3em!important
 }
 a.article-title, a.blog-slider__title, a.categoryBar-list-link, h1.post-title {
     font-family:Candyhome
+}
+h1,h2,h3,h4,h5,h6 {
+    font-family:ZhuZiAYuanJWDBlod
 }
