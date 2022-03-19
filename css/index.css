@@ -1852,7 +1852,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: 0.8em;
-  font-family: Jetbrains Mono Medium !important;
+  font-family: JetbrainsMono, consolas, Menlo, "PingFang SC", "Microsoft JhengHei", "Microsoft YaHei", sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
