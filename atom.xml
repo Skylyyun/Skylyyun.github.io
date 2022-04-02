@@ -6,7 +6,7 @@
   <link href="https://blog.leiyiyun.com/atom.xml" rel="self"/>
   
   <link href="https://blog.leiyiyun.com/"/>
-  <updated>2022-03-18T08:43:49.227Z</updated>
+  <updated>2022-04-02T13:01:22.313Z</updated>
   <id>https://blog.leiyiyun.com/</id>
   
   <author>
@@ -17,11 +17,36 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>理解运用JavaScript中的apply和call</title>
+    <link href="https://blog.leiyiyun.com/posts/c6adc021/"/>
+    <id>https://blog.leiyiyun.com/posts/c6adc021/</id>
+    <published>2022-04-02T07:18:09.290Z</published>
+    <updated>2022-04-02T13:01:22.313Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;0-前言&quot;&gt;&lt;a href=&quot;#0-前言&quot; class=&quot;headerlink&quot; title=&quot;0. 前言&quot;&gt;&lt;/a&gt;0. 前言&lt;/h1&gt;&lt;figure class=&quot;highlight js&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    <category term="front-end" scheme="https://blog.leiyiyun.com/categories/front-end/"/>
+    
+    
+    <category term="JavaScript Syntax" scheme="https://blog.leiyiyun.com/tags/JavaScript-Syntax/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hexo + Github pages搭建博客</title>
     <link href="https://blog.leiyiyun.com/posts/b8f4bd70/"/>
     <id>https://blog.leiyiyun.com/posts/b8f4bd70/</id>
     <published>2022-03-15T03:41:57.842Z</published>
-    <updated>2022-03-18T08:43:49.227Z</updated>
+    <updated>2022-03-20T15:00:59.934Z</updated>
     
     
       
